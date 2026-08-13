@@ -2,6 +2,7 @@
 
 package_name: git-delta
 github_repo: dandavison/delta
+license: MIT
 artifact_format: tar.gz
 description: "A syntax-highlighting pager for git, diff, grep, and blame output"
 
